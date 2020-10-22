@@ -1,0 +1,28 @@
+main > .container {
+  padding: 60px 15px 0;
+
+}
+
+.navbar-brand {
+  color: #0dcaf0 !important;
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+body {
+  background-color: #4e555b;
+  padding-top: 70px;
+}
+
+.dropdown-item {
+  background: #00000000;
+  color: #ffffff91;
+}
+
+.navbar-nav .dropdown-menu {
+  background: #343a40;
+}
+
